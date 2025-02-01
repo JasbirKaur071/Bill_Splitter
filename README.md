@@ -1,0 +1,1 @@
+It is Just the Bill Splitter made with HTML, CSS and JavaScript , whenever you go out with friends you  just split the bills so this is what i made a mini project which makes things easier and split bill on one go !
